@@ -8,7 +8,7 @@
         <relativePath />
     </parent>
     <groupId>io.jenkins.plugins</groupId>
-    <artifactId>V21cGYogjmOTqXHEvuOWr37FdJ9PNPD0c8Gawp1RfSTUl7GFvm8ZS07VXG8Sa3ZEBzHvasgkv0cVtmVrMGsie32BcuERLB3</artifactId>
+    <artifactId>dummy</artifactId>
     <version>${revision}${changelist}</version>
     <packaging>hpi</packaging>
     <name>TODO Plugin</name>
